@@ -7,7 +7,7 @@
 🌱 &nbsp;I'm on track for learning more about Data Science with python.\
 👯 I’m looking to help & collaborate with others\
 🥅 2021 Goals: Contribute more to Open Source projects\
-✍️ &nbsp;In my free time, I pursue Reading Blog as hobbies/side hustles.\
+✍️ &nbsp;In my free time, I pursue reading blogs as hobbies/side hustles.\
 ✉️ &nbsp;You can shoot me an email at dev.premneupane.75@gmail.com! I'll try to respond as soon as I can.
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.premneupane.com.np/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
