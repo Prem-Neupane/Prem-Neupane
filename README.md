@@ -2,7 +2,7 @@
 <h2> Namaskaar 🙏&nbsp;&nbsp; I'm Prem Neupane (:coffee::computer::bulb::heart:)</h2>
 
 💡 &nbsp;I like to explore new technologies and web-development solutions and quick tricks.\
-🔭 I’m currently working in [GrafiOffshore Nepal]([http://grafioh.com/](https://grafioffshorenepal.com/))\
+🔭 I’m currently working in [GrafiOffshore Nepal](https://grafioffshorenepal.com/)\
 🎓 &nbsp;I'm currently studying Computer Science(Bsc CSIT) at the Nepathya College affilated by Tribhuwan University.\
 🌱 &nbsp;I'm on track for learning more about Data Science with python.\
 👯 I’m looking to help & collaborate with others\
