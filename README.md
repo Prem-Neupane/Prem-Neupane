@@ -3,7 +3,7 @@
 
 💡 &nbsp; I like to explore new technologies and web-development solutions and quick tricks.\
 🔭 I’m currently working in [GrafiOffshore Nepal](https://grafioffshorenepal.com/)\
-🎓 &nbsp;I'm currently studying Computer Science(Bsc CSIT) at the Nepathya College affiliated by Tribhuwan University.\
+🎓 &nbsp;Graduated with Computer Science(Bsc CSIT) at the Nepathya College affiliated by Tribhuwan University.\
 🌱 &nbsp; I'm on track for learning more about Full Stack Developments.\
 👯 I’m looking to help & collaborate with others\
 🥅 2025 Goals: Contribute more to Open Source projects\
