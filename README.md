@@ -1,15 +1,15 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Prem-Neupane&label=Views&color=blue&style=plastic" alt="Prem-Neupane" /> </p>
 <h2> Namaskaar 🙏&nbsp;&nbsp; I'm Prem Neupane (:coffee::computer::bulb::heart:)</h2>
 
-💡 &nbsp; I like to explore new technologies and web-development solutions and quick tricks.\
-🔭 I’m currently working in [GrafiOffshore Nepal](https://grafioffshorenepal.com/)\
-🎓 &nbsp;Graduated with Computer Science(Bsc CSIT) at the Nepathya College affiliated by Tribhuwan University.\
-🌱 &nbsp; I'm on track for learning more about Full Stack Developments.\
-👯 I’m looking to help & collaborate with others\
-🥅 2025 Goals: Contribute more to Open Source projects\
+💡 &nbsp; I like to explore new technologies and web-development solutions & quick tricks.\
+🔭 &nbsp; I’m currently working in [Mavorion Systems Pvt.Ltd.]([https://mavorion.com/])\
+🎓 &nbsp; Graduated with Computer Science(Bsc CSIT) at the Nepathya College affiliated by Tribhuwan University.\
+🌱 &nbsp; I'm on track for learning more about Lead Software Engineer.\
+👯 &nbsp; I’m looking to help & collaborate with others\
+🥅 &nbsp; 2025 Goals: Contribute more to Open Source projects\
 ✍️ &nbsp; In my free time, I pursue reading blogs as hobbies/side hustles.\
-✉️ &nbsp; You can shoot me an email at dev.premneupane.75@gmail.com! I'll try to respond as soon as I can.
-<!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.premneupane.com.np/resume.html) for more details about me. I'm open to feedback and suggestions! -->
+✉️ &nbsp; Shoot me an email at dev.premneupane.75@gmail.com! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Protfolio](https://www.premneupane.com.np/) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
